@@ -1,6 +1,4 @@
-# Python_Challenge
-Create README.md
-Analyzing Data Using Python 
+# Analyzing Data Using Python 
 
 
 The goal of this exercise is analyzing data using Python. Some tasks done in the PyBank folder : 
